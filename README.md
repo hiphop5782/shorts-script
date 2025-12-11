@@ -1,1 +1,1 @@
-# shorts-script
+# 결과물 보관소
